@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Nanum+Myeongjo&display=swap');
+* {
+  font-family: "Noto Serif Korean", sans-serif;
+}
+
+@font-face {
+  font-family: "BM";
+  src: url("./fonts/BMHANNA_11yrs.ttf");
+}
+
+@font-face {
+  font-family: 'Pre';
+  src: url("./fonts/PretendardVariable.ttf");
+}
+
+.App {
+  text-align: center;
+  font-family: "BM";
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.background {
+  position: relative;
+  margin: auto;
+  overflow-x: hidden;
+  width: 100%;
+  min-height: 300px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: "BM";
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.notice{
+  float: left;
+  margin-left: 200px;
+}
+
+a { 
+  color: #000;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+.Header{
+  position: sticky;
+  top: 0%;
+  z-index: 10000;
+}
+
+
+.snslogo {
+  display: left;
+  width: 30px;
+  height: 30px;
+}
+
+
+.footer-container {
+  clear: both;
+  position: relative;
+  width: 100%;
+  background-color: #262626;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.footer-social-icons {
+  float: right;
+  padding-right: 80px;
+}
+
+.footer-social-icons a {
+  margin: 0 5px;
+}
+
+.copyright {
+  padding-left: 30px;
+}
+
+.copyright-c {
+  float: center;
+}
