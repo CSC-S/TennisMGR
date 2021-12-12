@@ -5,7 +5,7 @@
 [![Redux-v4.0.5](https://img.shields.io/badge/Redux-v4.0.5-764ABC.svg?logo=redux)](https://redux.js.org/)
 [![Webpack-v4.41.5](https://img.shields.io/badge/Webpack-v4.41.5-8DD6F9.svg?logo=webpack)](https://webpack.js.org/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-007ACC.svg)](https://code.visualstudio.com/)
-[![KaKao](https://img.shields.io/badge/API-KAKAO-yellow)
+![KaKao](https://img.shields.io/badge/API-KAKAO-yellow)
 
 - 회전목마를 활용 한 카드 뷰 및 간단한 프론트 뷰 구현. <br />
 - 카카오 지도 API를 활용한 지도검색 (검색 카테고리 변경 값에서 테니스 구장이 없어서 상세구현 미완) <br />
