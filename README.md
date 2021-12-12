@@ -40,7 +40,7 @@ npm start // yarn start
 ※ client 와 shop을 따로따로 실행해야 함.
 ```
 
-client = `npm start` or `npm run start`, your browser open `http://localhost:3000`.
+client = `npm start` or `npm run start`, your browser open `http://localhost:3000`. <br />
 shop = `npm start` or `npm run start`, your browser open `http://localhost:3001/products`.
 
 
