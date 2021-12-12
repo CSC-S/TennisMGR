@@ -30,13 +30,13 @@
 ## :hammer: Installation
 
 ```javascript
-npm i // yarn add
+npm i || yarn add
 ```
 
 ## :bell: Usage
 
 ```javascript
-npm start // yarn start
+npm start || yarn start
 ※ client 와 shop을 따로따로 실행해야 함.
 ```
 
