@@ -43,6 +43,8 @@ npm start || yarn start
 client = `npm start` or `npm run start`, your browser open `http://localhost:3000`. <br />
 shop = `npm start` or `npm run start`, your browser open `http://localhost:3001/products`.
 
+```npm install --legacy-peer-deps```
+
 
 ## :mag: Thchnical Skills
 
